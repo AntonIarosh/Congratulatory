@@ -1,0 +1,25 @@
+Fedor Fedorov
+05.10.1995 0:00:00
+friend
+False
+-1
+Petr Petrov
+20.04.1969 0:00:00
+Parent
+False
+-1
+ee
+11.07.2000 0:00:00
+rr
+False
+-1
+Klark Kent
+12.07.1990 0:00:00
+friend
+False
+-1
+Spider Man
+15.07.1990 0:00:00
+friend
+False
+-1
